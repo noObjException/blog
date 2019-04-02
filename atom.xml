@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Blog</title>
+  <title>J Blog</title>
   
   
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://noobjexception.github.io/blog/"/>
-  <updated>2019-04-02T05:27:45.934Z</updated>
+  <updated>2019-04-02T05:07:01.575Z</updated>
   <id>https://noobjexception.github.io/blog/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>J</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>article title</title>
-    <link href="https://noobjexception.github.io/blog/2019/04/02/article-title/"/>
-    <id>https://noobjexception.github.io/blog/2019/04/02/article-title/</id>
-    <published>2019-04-02T05:27:45.000Z</published>
-    <updated>2019-04-02T05:27:45.934Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
