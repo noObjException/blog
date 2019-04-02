@@ -3,11 +3,11 @@
   <title>Blog</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://noobjexception.github.io/blog/"/>
   <updated>2019-04-02T05:27:45.934Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://noobjexception.github.io/blog/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2019/04/02/article-title/"/>
-    <id>http://yoursite.com/2019/04/02/article-title/</id>
+    <link href="https://noobjexception.github.io/blog/2019/04/02/article-title/"/>
+    <id>https://noobjexception.github.io/blog/2019/04/02/article-title/</id>
     <published>2019-04-02T05:27:45.000Z</published>
     <updated>2019-04-02T05:27:45.934Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/04/02/hello-world/"/>
-    <id>http://yoursite.com/2019/04/02/hello-world/</id>
+    <link href="https://noobjexception.github.io/blog/2019/04/02/hello-world/"/>
+    <id>https://noobjexception.github.io/blog/2019/04/02/hello-world/</id>
     <published>2019-04-02T05:07:01.575Z</published>
     <updated>2019-04-02T05:07:01.575Z</updated>
     
